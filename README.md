@@ -114,7 +114,7 @@ The model is evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Fake-News-Detection.git
+git clone https://github.com/shadowblade17/Fake-News-Detection.git
 ```
 
 Move to the project folder:
